@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# Image-Reconstruction-and-Registration
+>>>>>>> fa092e01f2979bd0c2ddea84fa025dad625fb61a
 # First Part
 This part is for the dictionary learning. The basic idea is based on the method in reference. Here we tried to speed the original algorithm in a hierarchical way.
 #### Goal:
@@ -32,5 +36,10 @@ In particular, Fourier Burst Accumulation is weighted Fourier reconstruction.  I
 The result image may have wide black edges or blurred effect. I tried to use different distance definition and distance ratio to further restrict the matched image pairs. There is no quantitative evaluation for good or bad results. Further evaluation is pending. The result images are uploaded on share folder.
 
 #### Future Work:
+<<<<<<< HEAD
 Try to use different features to figure out the translation of points.Adjust the variables like the distance ratio or distance to get better results.
 
+=======
+Try to use different features to figure out the translation of points.
+Adjust the variables like the distance ratio or distance to get better results.
+>>>>>>> fa092e01f2979bd0c2ddea84fa025dad625fb61a
